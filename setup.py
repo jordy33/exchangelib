@@ -27,7 +27,7 @@ def read(file_name):
 
 
 setup(
-    name="exchangelib",
+    name="exchangelib2",
     version=version(),
     author="Erik Cederstrand",
     author_email="erik@cederstrand.dk",
